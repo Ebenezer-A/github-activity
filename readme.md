@@ -17,14 +17,10 @@ A simple command-line tool to fetch and display the recent activity of a GitHub 
 - Outputs event timestamps in a readable format.
 - Color-coded terminal output for easy distinction of event types.
 
-## Prerequisites
 
-- [Node.js](https://nodejs.org/) (version 12 or later)
-- A GitHub account to access user activity.
+## Usage
 
-## Installation
-
-1. Clone the repository or download the source code:
+Clone the repository:
 
    ```bash
    git clone https://github.com/yourusername/github-activity-cli.git
